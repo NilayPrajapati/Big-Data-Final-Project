@@ -1,0 +1,186 @@
+Region,Country,total_units_sold,total_revenue
+Asia,Bangladesh,2807612,747836564.93
+Asia,Bhutan,2693025,740602587.72
+Asia,Brunei,2756277,708818714.89
+Asia,Cambodia,2946963,754708565.49
+Asia,China,2766036,714382534.99
+Asia,India,2842526,749200217.29
+Asia,Indonesia,2775563,744880311.02
+Asia,Japan,2843356,734204599.79
+Asia,Kazakhstan,2509803,648791811.43
+Asia,Kyrgyzstan,2576450,683557159.34
+Asia,Laos,2785636,764814300.33
+Asia,Malaysia,2587267,687394704.68
+Asia,Maldives,2717565,788329775.82
+Asia,Mongolia,2611386,695415269.76
+Asia,Myanmar,2763882,724401026.99
+Asia,Nepal,2753503,705720608.31
+Asia,North Korea,2716421,702206861.86
+Asia,Philippines,2610149,698421164.83
+Asia,Singapore,2693579,704169644.68
+Asia,South Korea,2770289,725092661.81
+Asia,Sri Lanka,2685319,731282793.7
+Asia,Taiwan,2587979,671431982.41
+Asia,Tajikistan,2656933,711171566.75
+Asia,Thailand,2504482,678811521.76
+Asia,Turkmenistan,2761716,762630663.66
+Asia,Uzbekistan,2526615,680914844.34
+Asia,Vietnam,2571927,634208761.24
+Australia and Oceania,Australia,2915631,761864176.19
+Australia and Oceania,East Timor,2841779,725169433.97
+Australia and Oceania,Federated States of Micronesia,2973023,832669517.08
+Australia and Oceania,Fiji,2613373,670342350.96
+Australia and Oceania,Kiribati,2555774,664138378.6
+Australia and Oceania,Marshall Islands,2809998,810251011.36
+Australia and Oceania,Nauru,2705145,678848744.74
+Australia and Oceania,New Zealand,3024460,793897933.11
+Australia and Oceania,Palau,2472507,629698411.76
+Australia and Oceania,Papua New Guinea,2722797,671074792.65
+Australia and Oceania,Samoa ,2761638,725809747.5
+Australia and Oceania,Solomon Islands,2496346,639774855.45
+Australia and Oceania,Tonga,2565238,691352228.8100001
+Australia and Oceania,Tuvalu,2673154,726328361.41
+Australia and Oceania,Vanuatu,2666755,680302280.14
+Central America and the Caribbean,Antigua and Barbuda ,2575779,683379778.57
+Central America and the Caribbean,Barbados,2547102,739910650.78
+Central America and the Caribbean,Belize,2684666,710896743.6
+Central America and the Caribbean,Costa Rica,2792014,764726473.16
+Central America and the Caribbean,Cuba,2749954,770146846.93
+Central America and the Caribbean,Dominica,2666883,697480371.22
+Central America and the Caribbean,Dominican Republic,2616712,734884566.31
+Central America and the Caribbean,El Salvador,2850368,782277970.3
+Central America and the Caribbean,Grenada,2790332,721477966.63
+Central America and the Caribbean,Guatemala,2756079,707414944.21
+Central America and the Caribbean,Haiti,2852320,779354660.49
+Central America and the Caribbean,Honduras,2621868,670430017.15
+Central America and the Caribbean,Jamaica,2445989,611440671.82
+Central America and the Caribbean,Nicaragua,2480916,675779398.5
+Central America and the Caribbean,Panama,2913689,807337234.43
+Central America and the Caribbean,Saint Kitts and Nevis ,2782680,770111785.79
+Central America and the Caribbean,Saint Lucia,2568048,730097825.25
+Central America and the Caribbean,Saint Vincent and the Grenadines,2910562,792567740.0
+Central America and the Caribbean,The Bahamas,2637322,698176377.05
+Central America and the Caribbean,Trinidad and Tobago,2628515,705838143.1
+Europe,Albania,2747125,735111521.41
+Europe,Andorra,2640344,653450308.05
+Europe,Armenia,2537161,731143426.34
+Europe,Austria,2538390,737198047.17
+Europe,Belarus,2666348,736182809.24
+Europe,Belgium,2744200,746075613.25
+Europe,Bosnia and Herzegovina,2648959,709153300.36
+Europe,Bulgaria,2844855,759752436.59
+Europe,Croatia,2857409,745751696.78
+Europe,Cyprus,2577463,680875003.78
+Europe,Czech Republic,2653411,699892896.07
+Europe,Denmark,2740319,719122251.08
+Europe,Estonia,2721581,751852643.23
+Europe,Finland,2776052,682356609.85
+Europe,France,2614172,693264681.29
+Europe,Georgia,2536765,659174901.37
+Europe,Germany,2502470,647010682.89
+Europe,Greece,2624798,702640148.38
+Europe,Hungary,2850729,837433953.04
+Europe,Iceland,2526820,643536804.7
+Europe,Ireland,2711767,687999341.59
+Europe,Italy,2495483,666762779.55
+Europe,Kosovo,2621500,712594084.64
+Europe,Latvia,2770952,706934949.15
+Europe,Liechtenstein,2601049,673598895.28
+Europe,Lithuania,2797937,773438637.16
+Europe,Luxembourg,2731331,738268258.13
+Europe,Macedonia,2900660,741371207.45
+Europe,Malta,2978398,816286329.54
+Europe,Moldova ,2607350,651762863.23
+Europe,Monaco,2560281,677468590.49
+Europe,Montenegro,2823986,772313960.73
+Europe,Netherlands,2514818,664321346.63
+Europe,Norway,2779328,722162285.8
+Europe,Poland,2559925,716156404.36
+Europe,Portugal,2753871,668540287.5
+Europe,Romania,2789755,783171263.0
+Europe,Russia,2579558,717692453.16
+Europe,San Marino,2675089,697549494.16
+Europe,Serbia,2742096,732995728.43
+Europe,Slovakia,2805068,734612162.1
+Europe,Slovenia,2684787,702840001.46
+Europe,Spain,2631547,705754813.75
+Europe,Sweden,2698756,726484933.1
+Europe,Switzerland,2468266,634643525.15
+Europe,Ukraine,2614499,711135570.27
+Europe,United Kingdom,2590815,702514093.93
+Europe,Vatican City,2826488,730796928.78
+Middle East and North Africa,Afghanistan,2805640,733438568.92
+Middle East and North Africa,Algeria,2494000,674670643.84
+Middle East and North Africa,Azerbaijan,2761657,741969156.23
+Middle East and North Africa,Bahrain,2847732,835302930.87
+Middle East and North Africa,Egypt,2830604,742342521.66
+Middle East and North Africa,Iran,2624030,696793826.67
+Middle East and North Africa,Iraq,2765491,740661310.25
+Middle East and North Africa,Israel,2813879,757881891.13
+Middle East and North Africa,Jordan,2830539,735643339.53
+Middle East and North Africa,Kuwait,2677024,750370400.66
+Middle East and North Africa,Lebanon,2476626,671592466.14
+Middle East and North Africa,Libya,2718868,742584246.79
+Middle East and North Africa,Morocco,2739077,711047906.31
+Middle East and North Africa,Oman,2663438,741129840.71
+Middle East and North Africa,Pakistan,2828219,711924434.36
+Middle East and North Africa,Qatar,2643313,717895772.02
+Middle East and North Africa,Saudi Arabia,2736323,747683426.29
+Middle East and North Africa,Somalia,2745108,758700467.42
+Middle East and North Africa,Syria,2868946,735690020.78
+Middle East and North Africa,Tunisia ,2955073,762334218.21
+Middle East and North Africa,Turkey,2732629,688806467.24
+Middle East and North Africa,United Arab Emirates,2726890,724970072.42
+Middle East and North Africa,Yemen,2966519,797978866.07
+North America,Canada,2816976,750831129.96
+North America,Greenland,2869618,781864792.04
+North America,Mexico,2610525,767883035.64
+North America,United States of America,2548786,636423375.85
+Sub-Saharan Africa,Angola,2276264,602591574.9399999
+Sub-Saharan Africa,Benin,2741835,792360672.84
+Sub-Saharan Africa,Botswana,2813127,723416026.02
+Sub-Saharan Africa,Burkina Faso,2534600,697523864.28
+Sub-Saharan Africa,Burundi,2742551,753653322.4
+Sub-Saharan Africa,Cameroon,2647953,752817347.42
+Sub-Saharan Africa,Cape Verde,2673250,736185414.04
+Sub-Saharan Africa,Central African Republic,2672690,693906858.88
+Sub-Saharan Africa,Chad,2660461,753431515.25
+Sub-Saharan Africa,Comoros,2566738,688325497.02
+Sub-Saharan Africa,Cote d'Ivoire,2811595,693648645.63
+Sub-Saharan Africa,Democratic Republic of the Congo,2573491,686944171.54
+Sub-Saharan Africa,Djibouti,2699545,736968620.39
+Sub-Saharan Africa,Equatorial Guinea,2709308,723705934.36
+Sub-Saharan Africa,Eritrea,2552497,679947768.71
+Sub-Saharan Africa,Ethiopia,2804471,773902561.19
+Sub-Saharan Africa,Gabon,2691831,737184432.37
+Sub-Saharan Africa,Ghana,2516616,680104506.28
+Sub-Saharan Africa,Guinea,2777132,717865141.42
+Sub-Saharan Africa,Guinea-Bissau,2827084,761144218.67
+Sub-Saharan Africa,Kenya,2654474,719183877.22
+Sub-Saharan Africa,Lesotho,2612287,758658068.94
+Sub-Saharan Africa,Liberia,2898895,816786910.88
+Sub-Saharan Africa,Madagascar,2779721,741974221.79
+Sub-Saharan Africa,Malawi,2645975,710561179.09
+Sub-Saharan Africa,Mali,2647554,686235605.09
+Sub-Saharan Africa,Mauritania,2692082,699923372.24
+Sub-Saharan Africa,Mauritius ,2706490,726806615.34
+Sub-Saharan Africa,Mozambique,2917689,788837241.43
+Sub-Saharan Africa,Namibia,2847562,785270772.87
+Sub-Saharan Africa,Niger,2704114,709624955.44
+Sub-Saharan Africa,Nigeria,2374612,649842425.62
+Sub-Saharan Africa,Republic of the Congo,2641909,747316337.89
+Sub-Saharan Africa,Rwanda,2848779,781754950.66
+Sub-Saharan Africa,Sao Tome and Principe,2865977,714684947.35
+Sub-Saharan Africa,Senegal,2716010,759609305.89
+Sub-Saharan Africa,Seychelles ,2784534,732414858.47
+Sub-Saharan Africa,Sierra Leone,2713617,653584005.84
+Sub-Saharan Africa,South Africa,2880723,788979331.45
+Sub-Saharan Africa,South Sudan,2792902,768157220.22
+Sub-Saharan Africa,Sudan,3185986,814145709.27
+Sub-Saharan Africa,Swaziland,2650919,690924006.05
+Sub-Saharan Africa,Tanzania,2825261,760379697.21
+Sub-Saharan Africa,The Gambia,2569901,683457066.4
+Sub-Saharan Africa,Togo,2616970,691888169.9
+Sub-Saharan Africa,Uganda,2756934,747853289.59
+Sub-Saharan Africa,Zambia,2697509,721878781.53
+Sub-Saharan Africa,Zimbabwe,2568256,722092388.85
